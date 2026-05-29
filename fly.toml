@@ -4,7 +4,7 @@
 #
 
 app = 'neotea'
-primary_region = 'iad'
+primary_region = 'jnb'
 
 [env]
   GITEA__database__DB_TYPE = "sqlite3"
